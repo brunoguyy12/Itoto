@@ -1,0 +1,208 @@
+[33mcommit 4abe46b3c941ab71684e37473859b4bde9416027[m
+Author: brunoguyy12 <guybrunondikumana@gmail.com>
+Date:   Mon May 4 16:20:57 2026 +0200
+
+    contact form updated
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..edfbcc7[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,16 @@[m
+[32m+[m[32m# v0 sandbox internal files[m
+[32m+[m[32m__v0_runtime_loader.js[m
+[32m+[m[32m__v0_devtools.tsx[m
+[32m+[m[32m__v0_jsx-dev-runtime.ts[m
+[32m+[m[32m.snowflake/[m
+[32m+[m[32m.v0-trash/[m
+[32m+[m[32m.vercel/[m
+[32m+[m[32mnext.user-config.*[m
+[32m+[m
+[32m+[m[32m# Environment variables[m
+[32m+[m[32m.env*.local[m
+[32m+[m
+[32m+[m[32m# Common ignores[m
+[32m+[m[32mnode_modules[m
+[32m+[m[32m.next/[m
+[32m+[m[32m.DS_Store[m
+\ No newline at end of file[m
+[1mdiff --git a/app/favicon.ico b/app/favicon.ico[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f81acf0[m
+Binary files /dev/null and b/app/favicon.ico differ
+[1mdiff --git a/app/globals.css b/app/globals.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b59863c[m
+[1m--- /dev/null[m
+[1m+++ b/app/globals.css[m
+[36m@@ -0,0 +1,243 @@[m
+[32m+[m[32m@import "tailwindcss";[m
+[32m+[m[32m@import "tw-animate-css";[m
+[32m+[m
+[32m+[m[32m@custom-variant dark (&:is(.dark *));[m
+[32m+[m
+[32m+[m[32m:root {[m
+[32m+[m[32m  /* ILH Brand Colors */[m
+[32m+[m[32m  --orange: #f47c20;[m
+[32m+[m[32m  --orange-light: #ff9b4d;[m
+[32m+[m[32m  --orange-dark: #d96800;[m
+[32m+[m[32m  --green: #2e7d32;[m
+[32m+[m[32m  --green-light: #4caf50;[m
+[32m+[m[32m  --green-dark: #1b5e20;[m
+[32m+[m[32m  --blue: #0d47a1;[m
+[32m+[m[32m  --blue-light: #1976d2;[m
+[32m+[m[32m  --blue-dark: #002171;[m
+[32m+[m[32m  --gold: #ffc107;[m
+[32m+[m[32m  --gold-light: #ffd54f;[m
+[32m+[m[32m  --gold-dark: #ffa000;[m
+[32m+[m
+[32m+[m[32m  /* Neutrals */[m
+[32m+[m[32m  --dark: #1f2937;[m
+[32m+[m[32m  --gray: #4b5563;[m
+[32m+[m[32m  --gray-light: #6b7280;[m
+[32m+[m[32m  --gray-muted: #9ca3af;[m
+[32m+[m[32m  --border-light: #e5e7eb;[m
+[32m+[m[32m  --bg-light: #f9fafb;[m
+[32m+[m[32m  --white: #ffffff;[m
+[32m+[m
+[32m+[m[32m  /* Semantic tokens */[m
+[32m+[m[32m  --background: #ffffff;[m
+[32m+[m[32m  --foreground: #1f2937;[m
+[32m+[m[32m  --card: #ffffff;[m
+[32m+[m[32m  --card-foreground: #1f2937;[m
+[32m+[m[32m  --popover: #ffffff;[m
+[32m+[m[32m  --popover-foreground: #1f2937;[m
+[32m+[m[32m  --primary: #f47c20;[m
+[32m+[m[32m  --primary-foreground: #ffffff;[m
+[32m+[m[32m  --secondary: #2e7d32;[m
+[32m+[m[32m  --secondary-foreground: #ffffff;[m
+[32m+[m[32m  --muted: #f9fafb;[m
+[32m+[m[32m  --muted-foreground: #6b7280;[m
+[32m+[m[32m  --accent: #0d47a1;[m
+[32m+[m[32m  --accent-foreground: #ffffff;[m
+[32m+[m[32m  --destructive: #dc2626;[m
+[32m+[m[32m  --destructive-foreground: #ffffff;[m
+[32m+[m[32m  --border: #e5e7eb;[m
+[32m+[m[32m  --input: #e5e7eb;[m
+[32m+[m[32m  --ring: #f47c20;[m
+[32m+[m
+[32m+[m[32m  --radius: 0.75rem;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.dark {[m
+[32m+[m[32m  --background: #1f2937;[m
+[32m+[m[32m  --foreground: #f9fafb;[m
+[32m+[m[32m  --card: #374151;[m
+[32m+[m[32m  --card-foreground: #f9fafb;[m
+[32m+[m[32m  --popover: #374151;[m
+[32m+[m[32m  --popover-foreground: #f9fafb;[m
+[32m+[m[32m  --primary: #f47c20;[m
+[32m+[m[32m  --primary-foreground: #ffffff;[m
+[32m+[m[32m  --secondary: #4caf50;[m
+[32m+[m[32m  --secondary-foreground: #ffffff;[m
+[32m+[m[32m  --muted: #374151;[m
+[32m+[m[32m  --muted-foreground: #9ca3af;[m
+[32m+[m[32m  --accent: #1976d2;[m
+[32m+[m[32m  --accent-foreground: #ffffff;[m
+[32m+[m[32m  --destructive: #dc2626;[m
+[32m+[m[32m  --destructive-foreground: #ffffff;[m
+[32m+[m[32m  --border: #4b5563;[m
+[32m+[m[32m  --input: #4b5563;[m
+[32m+[m[32m  --ring: #f47c20;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@theme inline {[m
+[32m+[m[32m  --font-sans: "Inter", "Inter Fallback", sans-serif;[m
+[32m+[m[32m  --font-mono: "Geist Mono", "Geist Mono Fallback", monospace;[m
+[32m+[m
+[32m+[m[32m  /* Brand Colors */[m
+[32m+[m[32m  --color-orange: var(--orange);[m
+[32m+[m[32m  --color-orange-light: var(--orange-light);[m
+[32m+[m[32m  --color-orange-dark: var(--orange-dark);[m
+[32m+[m[32m  --color-green: var(--green);[m
+[32m+[m[32m  --color-green-light: var(--green-light);[m
+[32m+[m[32m  --color-green-dark: var(--green-dark);[m
+[32m+[m[32m  --color-blue: var(--blue);[m
+[32m+[m[32m  --color-blue-light: var(--blue-light);[m
+[32m+[m[32m  --color-blue-dark: var(--blue-dark);[m
+[32m+[m[32m  --color-gold: var(--gold);[m
+[32m+[m[32m  --color-gold-light: var(--gold-light);[m
+[32m+[m[32m  --color-gold-dark: var(--gold-dark);[m
+[32m+[m[32m  --color-dark: var(--dark);[m
+[32m+[m[32m  --color-gray: var(--gray);[m
+[32m+[m[32m  --color-gray-light: var(--gray-light);[m
+[32m+[m[32m  --color-gray-muted: var(--gray-muted);[m
+[32m+[m[32m  --color-border-light: var(--border-light);[m
+[32m+[m[32m  --color-bg-light: var(--bg-light);[m
+[32m+[m
+[32m+[m[32m  /* Semantic Colors */[m
+[32m+[m[32m  --color-background: var(--background);[m
+[32m+[m[32m  --color-foreground: var(--foreground);[m
+[32m+[m[32m  --color-card: var(--card);[m
+[32m+[m[32m  --color-card-foreground: var(--card-foreground);[m
+[32m+[m[32m  --color-popover: var(--popover);[m
+[32m+[m[32m  --color-popover-foreground: var(--popover-foreground);[m
+[32m+[m[32m  --color-primary: var(--primary);[m
+[32m+[m[32m  --color-primary-foreground: var(--primary-foreground);[m
+[32m+[m[32m  --color-secondary: var(--secondary);[m
+[32m+[m[32m  --color-secondary-foreground: var(--secondary-foreground);[m
+[32m+[m[32m  --color-muted: var(--muted);[m
+[32m+[m[32m  --color-muted-foreground: var(--muted-foreground);[m
+[32m+[m[32m  --color-accent: var(--accent);[m
+[32m+[m[32m  --color-accent-foreground: var(--accent-foreground);[m
+[32m+[m[32m  --color-destructive: var(--destructive);[m
+[32m+[m[32m  --color-destructive-foreground: var(--destructive-foreground);[m
+[32m+[m[32m  --color-border: var(--border);[m
+[32m+[m[32m  --color-input: var(--input);[m
+[32m+[m[32m  --color-ring: var(--ring);[m
+[32m+[m
+[32m+[m[32m  /* Border Radius */[m
+[32m+[m[32m  --radius-sm: calc(var(--radius) - 4px);[m
+[32m+[m[32m  --radius-md: calc(var(--radius) - 2px);[m
+[32m+[m[32m  --radius-lg: var(--radius);[m
+[32m+[m[32m  --radius-xl: calc(var(--radius) + 4px);[m
+[32m+[m[32m  --radius-2xl: calc(var(--radius) + 8px);[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m@layer base {[m
+[32m+[m[32m  * {[m
+[32m+[m[32m    @apply border-border outline-ring/50;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  body {[m
+[32m+[m[32m    @apply bg-background text-foreground;[m
+[32m+[m[32m  }[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m/* Marquee animation */[m
+[32m+[m[32m@keyframes marquee {[m
+[32m+[m[32m  0% {[m
+[32m+[m[32m    transform: translateX(0);[m
+[32m+[m[32m  }[m
+[32m+[m[32m  100% {[m
+[32m+[m[32m    transform: translateX(-5%);[m
+[32m+[m[32m  }[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.animate-marquee {[m
+[32m+[m[32m  animation: marquee 30s linear infinite;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m/* Pattern backgrounds */[m
+[32m+[m[32m.pattern-dots {[m
+[32m+[m[32m  background-image: radial-gradient(circle, var(--orange) 1px, transparent 1px);[m
+[32m+[m[32m  background-size: 24px 24px;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.pattern-dots-light {[m
+[32m+[m[32m  background-image: radial-gradient([m
+[32m+[m[32m    circle,[m
+[32m+[m[32m    rgba(244, 124, 32, 0.15) 1px,[m
+[32m+[m[32m    transparent 1px[m
+[32m+[m[32m  );[m
+[32m+[m[32m  background-size: 24px 24px;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.pattern-diagonal {[m
+[32m+[m[32m  background-image: repeating-linear-gradient([m
+[32m+[m[32m 
