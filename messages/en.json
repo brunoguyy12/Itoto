@@ -1,0 +1,483 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "programs": "Programs",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+
+  "hero": {
+    "badge": "Now Enrolling for 2026 Programs",
+    "title1": "Empowering",
+    "titleHighlight": "Minds",
+    "title2": "Transforming",
+    "titleHighlight2": "Futures",
+    "description": "Quality education, modern resources, and a supportive community for every learner. Master languages, advance your career, and unlock your full potential.",
+    "cta1": "Start Learning",
+    "cta2": "Explore Programs",
+    "stats": {
+      "students": "Students",
+      "languages": "Languages",
+      "successRate": "Success Rate",
+      "experience": "Years Experience"
+    },
+    "services": {
+      "languages": "Languages",
+      "career": {
+        "key": "Career Support",
+        "label": "TOEFL, IELTS, Guidance"
+      },
+      "development": {
+        "key": "Development",
+        "label": "Leadership & Skills"
+      },
+      "community": {
+        "key": "Community",
+        "label": "ECD & Family Support"
+      }
+    },
+    "values": "Values-Driven"
+  },
+
+  "partners": {
+    "title": "Trusted by Organizations Across Burundi and Beyond",
+    "items": {
+      "education": "Educational Institutions",
+      "ngo": "NGOs & INGOs",
+      "government": "Government Partners",
+      "corporate": "Corporate Organizations",
+      "community": "Community Groups",
+      "development": "Development Agencies",
+      "tourism": "Tourist Translators Groups"
+    }
+  },
+
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive Learning",
+    "titleHighlight": "Development Solutions",
+    "description": "We provide high-quality learning, language, professional, and community development services that nurture competent, ethical, and socially responsible individuals.",
+    "languages": {
+      "title": "Language & Communication",
+      "description": "Comprehensive language solutions to enhance global competence and professional effectiveness.",
+      "features": {
+        "ft1": "English, French, Kirundi & Kiswahili Training",
+        "ft2": "Professional Translation Services",
+        "ft3": "Simultaneous & Consecutive Interpretation",
+        "ft4": "Kirundi Online for Diaspora Children"
+      }
+    },
+    "career": {
+      "title": "Academic & Career Support",
+      "description": "Supporting learners and professionals in making informed academic and career decisions.",
+      "features": {
+        "ft1": "School Counseling & Career Guidance",
+        "ft2": "TOEFL, IELTS & Duolingo Test Prep",
+        "ft3": "University Application Support",
+        "ft4": "Ethical Visa Application Assistance"
+      }
+    },
+    "development": {
+      "title": "Professional Development",
+      "description": "Recognizing that success extends beyond academic achievement with holistic training.",
+      "features": {
+        "ft1": "Personal Development & Leadership",
+        "ft2": "Entrepreneurship & Startup Support",
+        "ft3": "Financial Literacy & Professionalism",
+        "ft4": "Team Management & Conflict Resolution"
+      }
+    },
+    "ecd": {
+      "title": "ECD & Community Support",
+      "description": "Laying strong foundations for lifelong learning and community well-being.",
+      "features": {
+        "ft1": "Child-Centered Early Childhood Development(ECD) Programs",
+        "ft2": "Caregiver & Parental Education",
+        "ft3": "Child Protection Initiatives",
+        "ft4": "Community-Led ECD Center Support"
+      }
+    },
+    "learnMore": "Learn More",
+    "question": "Not sure which program is right for you? We're here to help!",
+    "cta": "Get Personalized Guidance"
+  },
+
+  "languages": {
+    "badge": "Language Training",
+    "title": "Master Multiple",
+    "titleHighlight": "Languages",
+    "description": "Our comprehensive language programs focus on all four core skills to ensure complete fluency. Whether for academic, professional, or personal growth, we have the perfect program for you.",
+    "skills": {
+      "speaking": {
+        "name": "Speaking",
+        "description": "Conversational fluency"
+      },
+      "writing": {
+        "name": "Writing",
+        "description": "Written expression"
+      },
+      "reading": {
+        "name": "Reading",
+        "description": "Text comprehension"
+      },
+      "listening": {
+        "name": "Listening",
+        "description": "Audio comprehension"
+      }
+    },
+    "english": "English",
+    "french": "French",
+    "kirundi": "Kirundi",
+    "kiswahili": "Kiswahili",
+    "cta1": "Start Learning",
+    "cta2": "View Programs",
+    "available": "4 Languages Available"
+  },
+
+  "about": {
+    "value": "Values-Driven",
+    "founded": "Founded",
+    "hq": "Headquarters",
+    "trans": "Transformative",
+
+    "badge": "About Us",
+    "title": "Learning That Transforms",
+    "titleHighlight": "Lives & Communities",
+    "description": {
+      "p1": "ITOTO Learning Hub (ILH) is a values-driven learning and capacity development center committed to empowering individuals and institutions through practical, inclusive, and transformational learning.",
+      "p2": "Rooted in community realities and open to global opportunities, ILH connects education, employability, entrepreneurship, and social responsibility in Burundi and beyond."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide high-quality learning, language, and development services that nurture skilled, ethical, and socially responsible individuals."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A world where individuals and communities thrive through quality, relevant, and inclusive learning."
+    },
+    "approach": {
+      "title": "Our Approach",
+      "description": "We adopt a practical, learner-centered, and partnership-based approach that ensures long-term impact beyond short-term training.",
+      "items": {
+        "i1": "Safe, inclusive learning spaces where learners actively apply knowledge",
+        "i2": "Sustained coaching, mentorship, and follow-up for long-term impact",
+        "i3": "Strategic partnerships with like-minded organizations",
+        "i4": "Practical, learner-centered methodology"
+      }
+    },
+    "values": {
+      "badge": "Our Values",
+      "title": "Core Values That",
+      "titleHighlight": "Guide Us",
+      "description": "These principles form the foundation of everything we do at ITOTOLearning Hub.",
+
+      "integrity": {
+        "title": "Integrity",
+        "description": "Acting ethically and responsibly in all engagements."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Promoting accountability and openness in governance and service delivery."
+      },
+      "inclusivity": {
+        "title": "Inclusivity",
+        "description": "Ensuring equitable access to learning opportunities for all."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Upholding high standards in teaching, service delivery, and outcomes."
+      },
+      "service": {
+        "title": "Service to Community",
+        "description": "Reinvesting to support education for the less fortunate."
+      }
+    }
+  },
+
+  "programs": {
+    "badge": "Featured Programs",
+    "title": "Start Learning ",
+    "titleHighlight": "Today",
+    "description": "Choose from our range of carefully designed programs to achieve your academic and professional goals.",
+    "viewAll": "View All Programs",
+    "enrollNow": "Enroll Now",
+    "popular": "Popular",
+    "new": "New",
+    "duration": "Duration",
+    "level": "Level",
+    "items": {
+      "english": {
+        "title": "English Proficiency",
+        "subtitle": "Speak Confidently, Write Professionally",
+        "description": "Master the English language with our comprehensive program covering speaking, listening, reading, and writing skills.",
+        "duration": "3-6 months",
+        "schedule": "Flexible",
+        "groupSize": "8-12 students",
+        "features": [
+          "Conversational English",
+          "Business Communication",
+          "TOEFL/IELTS Prep",
+          "Writing & Grammar"
+        ]
+      },
+      "french": {
+        "title": "French Language",
+        "subtitle": "Le français pour tous",
+        "description": "From beginner to advanced, develop your French skills for academic, professional, or personal growth.",
+        "duration": "3-6 months",
+        "schedule": "Flexible",
+        "groupSize": "8-12 students",
+        "features": [
+          "Grammar Foundations",
+          "Oral Expression",
+          "Written Composition",
+          "Cultural Context"
+        ]
+      },
+      "kirundi": {
+        "title": "Kirundi for Diaspora",
+        "subtitle": "Connect with Your Roots",
+        "description": "Online courses designed for children of the Burundian diaspora to learn and appreciate their mother tongue.",
+        "duration": "Ongoing",
+        "schedule": "Online",
+        "groupSize": "6-10 students",
+        "features": [
+          "Basic Vocabulary",
+          "Conversation Skills",
+          "Cultural Heritage",
+          "Family Connection"
+        ]
+      },
+      "career": {
+        "title": "Career Guidance Package",
+        "subtitle": "Your Path to Success",
+        "description": "Comprehensive support for students navigating their academic and professional journey.",
+        "duration": "Custom",
+        "schedule": "By Appointment",
+        "groupSize": "1-on-1",
+        "features": [
+          "Career Assessment",
+          "University Applications",
+          "Visa Support",
+          "Interview Prep"
+        ]
+      }
+    },
+    "question": "Looking for a customized training program for your organization?",
+    "cta": "Contact us for corporate solutions"
+  },
+
+  "audience": {
+    "badge": "Who We Serve",
+    "title": "Empowering Diverse",
+    "titleHighlight": "Communities",
+    "description": "ITOTO Learning Hub serves both individuals and institutions, operating in Burundi and beyond to ensure learning leads to tangible outcomes.",
+
+    "items": [
+      {
+        "title": "Students",
+        "description": "At all levels seeking academic excellence and language proficiency."
+      },
+      {
+        "title": "Teachers & Educators",
+        "description": "Looking to enhance their teaching methodologies and skills."
+      },
+      {
+        "title": "Professionals",
+        "description": "Youth and working professionals seeking career advancement."
+      },
+      {
+        "title": "Caregivers & Parents",
+        "description": "Community members invested in early childhood development."
+      },
+      {
+        "title": "Organizations",
+        "description": "Local and international nonprofits seeking capacity building."
+      },
+      {
+        "title": "Institutions",
+        "description": "Government and development partners for strategic collaboration."
+      }
+    ],
+    "question": "No matter your background, we're here to support your learning journey.",
+    "cta": "Connect with us today"
+  },
+
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "What Our ",
+    "titleHighlight": "Learners Say",
+    "description": "Hear from students, teachers, and partners who have experienced the transformative impact of ITOTO Learning Hub.",
+    "items": [
+      {
+        "quote": "ITOTO Learning Hub has transformed the way I learn. The resources and community support are amazing! Their English program helped me pass my IELTS with a band 7.5.",
+        "author": "Jean-Pierre K.",
+        "role": "University Student"
+      },
+      {
+        "quote": "The career guidance I received was invaluable. They helped me understand my strengths and navigate the university application process with confidence.",
+        "author": "Marie C.",
+        "role": "High School Graduate"
+      },
+      {
+        "id": 3,
+        "quote": "As a teacher, the capacity building workshops opened my eyes to new teaching methodologies. My students are more engaged than ever before.",
+        "author": "Emmanuel N.",
+        "role": "Secondary School Teacher"
+      },
+      {
+        "quote": "The translation services are professional and accurate. ILH has become our trusted partner for all our multilingual communication needs.",
+        "author": "Claudine M.",
+        "role": "NGO Program Director"
+      },
+      {
+        "quote": "The ECD program has been wonderful for our community. Parents are more involved, and children are thriving in their early learning journey.",
+        "author": "Pascaline U.",
+        "role": "Community Leader"
+      }
+    ],
+    "satisfaction": "Satisfaction Rate",
+    "student": "Students Served",
+    "partner": "Partner Organizations",
+    "average": "Average Rating"
+  },
+
+  "faq": {
+    "badge": "FAQs",
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "description": "Find answers to common questions about our programs and services. Can't find what you're looking for? Reach out to us directly.",
+    "question": "Still have questions?",
+    "answer": "Our team is here to help. Contact us for personalized assistance.",
+    "cta": "Contact Support",
+    "items": [
+      {
+        "question": "What languages do you offer training in?",
+        "answer": "We offer comprehensive training in four languages: English, French, Kirundi, and Kiswahili. Each program focuses on the four core skills: speaking, listening, reading, and writing. We also offer specialized courses for diaspora children to learn Kirundi."
+      },
+      {
+        "question": "How do I prepare for TOEFL or IELTS with ILH?",
+        "answer": "Our test preparation program includes practice tests, focused skill-building sessions, personalized feedback, and proven strategies for success. We offer both group classes and one-on-one coaching to match your learning style and schedule."
+      },
+      {
+        "question": "Do you help with university applications?",
+        "answer": "Yes! Our Academic & Career Support service includes comprehensive university application assistance. We help with program selection, application documentation, personal statements, and navigating the admission process for universities worldwide."
+      },
+      {
+        "question": "What professional development courses do you offer?",
+        "answer": "We offer training in personal development, leadership, entrepreneurship, financial literacy, team management, negotiation, conflict resolution, and work ethics. These programs are designed for individuals and can be customized for organizations."
+      },
+      {
+        "question": "How does your ECD program support communities?",
+        "answer": "Our Early Childhood Development program provides child-centered learning tools, caregiver education, child protection initiatives, and support for community-led ECD centers. We focus on building strong foundations for lifelong learning."
+      },
+      {
+        "question": "Do you offer translation and interpretation services?",
+        "answer": "Yes, we provide professional translation services for documents in English, French, Kirundi, and Kiswahili. We also offer both simultaneous and consecutive interpretation for meetings, conferences, and events."
+      },
+      {
+        "question": "Can organizations partner with ILH for training?",
+        "answer": "Absolutely! We work with local and international nonprofits, government institutions, and development partners. We can customize our programs to meet your organization's specific needs and goals."
+      },
+      {
+        "question": "What makes ILH different from other learning centers?",
+        "answer": "ILH is values-driven and community-rooted. We focus on holistic, practical, and transformational learning. Our approach includes sustained coaching and mentorship, and we reinvest a portion of our income to support education for the less fortunate."
+      }
+    ]
+  },
+
+  "cta": {
+    "badge": "Join Thousands of Learners",
+    "title": "Ready to Start Your",
+    "titleHighlight": "Transformation?",
+    "description": "Take the first step towards empowering your mind and shaping your future. Join ITOTO Learning Hub today and discover your potential.",
+    "cta1": "Get Started Now",
+    "cta2": "Explore Programs",
+    "secondary": "Contact Us",
+    "quality": "Quality Learning",
+    "expert": "Expert Instructors",
+    "flexible": "Flexible Schedule",
+    "community": "Community Support"
+  },
+
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Ready to Start Your",
+    "titleHighlight": "Learning Journey?",
+    "description": "Reach out to us and let's discuss how we can help you achieve your academic and professional goals.",
+
+    "question": "Let's Talk",
+    "answer": "Whether you're looking for language training, career guidance, or professional development, we're here to help.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Service Interested In",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "your@email.com",
+      "servicePlaceholder": "Select a service",
+      "messagePlaceholder": "Tell us about your learning goals..."
+    },
+    "info": [
+      {
+        "title": "Email Us",
+        "description": "We respond within 24 hours"
+      },
+      {
+        "title": "Call Us",
+        "description": "Mon-Fri, 8am-6pm"
+      },
+      {
+        "title": "Visit Us",
+        "description": "By appointment"
+      },
+      {
+        "title": "Working Hours",
+        "description": "Sunday closed"
+      }
+    ],
+    "services": [
+      "Language Training",
+      "Test Preparation (TOEFL/IELTS)",
+      "Career Counseling",
+      "University Applications",
+      "Translation Services",
+      "Interpretation",
+      "Professional Development",
+      "ECD Programs",
+      "Other"
+    ],
+    "follow": "Follow Us",
+    "submitted": {
+      "title": "Thank You!",
+      "description": "We've received your message and will get back to you within 24 hours."
+    },
+    "sending": "Sending...",
+    "send": "Send Message"
+  },
+
+  "footer": {
+    "description": "Empowering Minds, Transforming Futures. A values-driven learning center dedicated to holistic, practical, and transformational learning.",
+    "servicesLinks": [
+      "Language Training",
+      "Test Preparation",
+      "Career Guidance",
+      "Translation Services",
+      "Professional Development",
+      "ECD Programs"
+    ],
+    "resourcesLinks": ["Programs", "FAQ", "Blog", "Events"],
+    "companyLinks": ["About Us", "Our Team", "Testimonials", "Contact"],
+    "company": "Company",
+    "resources": "Resources",
+    "contact": "Contact",
+    "rights": "All rights reserved. Developed by",
+    "privacy": "Privacy Policy",
+    "top": "Back to top",
+    "terms": "Terms of Service"
+  }
+}

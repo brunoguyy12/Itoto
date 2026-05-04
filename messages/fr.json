@@ -1,0 +1,488 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "A Propos",
+    "services": "Services",
+    "programs": "Programmes",
+    "contact": "Contact",
+    "getStarted": "Commencer"
+  },
+
+  "hero": {
+    "badge": "Inscriptions aux programmes 2026 en cours",
+    "title1": "Motiver les",
+    "titleHighlight": "ésprits",
+    "title2": "transformer les",
+    "titleHighlight2": "avenirs",
+    "description": "Une education de qualite, des ressources modernes et une communaute solidaire pour chaque apprenant. Maitrisez les langues, avancez dans votre carriere et liberez votre plein potentiel.",
+    "cta1": "Commencer",
+    "cta2": "Explorer les Programmes",
+    "stats": {
+      "students": "Etudiants",
+      "languages": "Langues",
+      "successRate": "Taux de Reussite",
+      "experience": "Ans d'Experience"
+    },
+    "services": {
+      "languages": "Langues",
+      "career": {
+        "key": "Orientation Professionnelle",
+        "label": "TOEFL, IELTS, Conseils"
+      },
+      "development": {
+        "key": "Développement",
+        "label": "Leadership et Compétences"
+      },
+      "community": {
+        "key": "Communauté",
+        "label": "DPE et Soutien Familial"
+      }
+    },
+    "values": "Axé sur les Valeurs"
+  },
+
+  "partners": {
+    "title": "Approuvé par des organisations à travers le Burundi et au-delà",
+    "items": {
+      "education": "Établissements d'enseignement",
+      "ngo": "ONGs et OINGs",
+      "government": "Partenaires Gouvernementaux",
+      "corporate": "Entreprises",
+      "community": "Groupe de Communautés",
+      "development": "Agences de Développement",
+      "tourism": "Groupe de Traducteurs Touristiques"
+    }
+  },
+
+  "services": {
+    "badge": "Nos Services",
+    "title": "Apprentissage compréhensible",
+    "titleHighlight": "Solutions de développement",
+    "description": "Nous apportons des services d'apprentissage, de langues, de développement professionel de qualité qui nourissent des individus compétents et responsables",
+    "languages": {
+      "title": "Langue & Communication",
+      "description": "Des solutions linguistiques compréhensibles pour améliorer les compétences globales et l'efficacité professionnelle",
+      "features": {
+        "ft1": "Formation en Anglais, Français, Kirundi et Kiswahili",
+        "ft2": "Services de Traduction Professionnelle",
+        "ft3": "Interprétation Simultanée et Consécutive",
+        "ft4": "Kirundi en ligne pour les Enfants de la Diaspora"
+      }
+    },
+    "career": {
+      "title": "Orientation académique et professionnelle",
+      "description": "Aider les Apprenants et les Professionnels à prendre des décisions académiques et professionnelles éclairées.",
+      "features": {
+        "ft1": "Conseil Scolaire et Orientation Professionnelle",
+        "ft2": "Préparation aux tests TOEFL, IELTS et Duolingo",
+        "ft3": "Assistance aux Candidatures Universitaires",
+        "ft4": "Aide à la Demande de Visa Éthique"
+      }
+    },
+    "development": {
+      "title": "Développement professionnel",
+      "description": "Reconnaître que le succès va au-delà de la réussite académique avec une formation holistique.",
+      "features": {
+        "ft1": "Développement Personnel et Leadership",
+        "ft2": "Entrepreneuriat et Soutien aux Startups",
+        "ft3": "Littératie Financière et Professionnalisme",
+        "ft4": "Gestion d'Équipe et Résolution de Conflits"
+      }
+    },
+    "ecd": {
+      "title": "DPE et soutien communautaire",
+      "description": "Jeter les bases solides pour l'apprentissage continu et le bien-être communautaire.",
+      "features": {
+        "ft1": "Programmes de Développement de la Pétite Enfance(DPE) Centrés sur l'Enfant",
+        "ft2": "Éducation des Soignants et des Parents",
+        "ft3": "Initiatives de Protection de l'Enfance",
+        "ft4": "Soutien des Centres DPE Dirigés par la Communauté"
+      }
+    },
+    "learnMore": "Savoir Plus",
+    "question": "Vous n'êtes pas sûr du programme qui vous convient? Nous sommes là pour vous aider!",
+    "cta": "Obtenir des Conseils Personnalisés"
+  },
+
+  "languages": {
+    "badge": "Formation Linguistique",
+    "title": "Maîtriser plusieurs",
+    "titleHighlight": "langues",
+    "description": "Nos programmes linguistiques complets se concentrent sur les quatre compétences essentielles pour assurer une fluidité complète. Que ce soit pour la croissance académique, professionnelle ou personnelle, nous avons le programme parfait pour vous.",
+    "skills": {
+      "speaking": {
+        "name": "Expression Orale",
+        "description": "Fluidité conversationnelle"
+      },
+      "writing": {
+        "name": "Expression Écrite",
+        "description": "Bien s'exprimer en écrit"
+      },
+      "reading": {
+        "name": "Lecture",
+        "description": "Compréhension de texte"
+      },
+      "listening": {
+        "name": "Compréhension Orale",
+        "description": "Compréhension audio"
+      }
+    },
+    "english": "Anglais",
+    "french": "Français",
+    "kirundi": "Kirundi",
+    "kiswahili": "Kiswahili",
+    "cta1": "Commencer l'Apprentissage",
+    "cta2": "Voir les Programmes",
+    "available": "4 Langues Disponibles"
+  },
+
+  "about": {
+    "value": "Axé sur les Valeurs",
+    "founded": "Fondée",
+    "hq": "Siège Social",
+    "trans": "Transformateur",
+
+    "badge": "À Propos de Nous",
+    "title": "Une Formation qui change",
+    "titleHighlight": "les vies et les communautés",
+    "description": {
+      "p1": "ITOTO Learning Hub (ILH) est un centre d'apprentissage et de développement des capacités axé sur les valeurs, engagé à autonomiser les individus et les institutions par un apprentissage pratique, inclusif et transformateur.",
+      "p2": "Enraciné dans les réalités communautaires et ouvert aux opportunités mondiales, ILH connecte l'éducation, l'employabilité, l'entrepreneuriat et la responsabilité sociale au Burundi et au-delà."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Fournir des services d'apprentissage, de langues et de développement de haute qualité qui cultivent des individus compétents, éthiques et socialement responsables."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Un monde où les individus et les communautés prospèrent grâce à un apprentissage de qualité, pertinent et inclusif."
+    },
+    "approach": {
+      "title": "Notre Approche",
+      "description": "Nous adoptons une approche pratique, centrée sur l'apprenant et basée sur les partenariats qui assure un impact durable au-delà de la formation à court terme.",
+      "items": {
+        "i1": "Des espaces de formations sûrs et inclusifs où on appliquent les connaissances",
+        "i2": "Une assistance soutenu, mentorat et suivi continu pour un impact à long terme",
+        "i3": "Des partenariats stratégiques avec des organisations partageant les mêmes idées",
+        "i4": "Une méthodologie pratique et centrée sur l'apprenant"
+      }
+    },
+    "values": {
+      "badge": "Nos Valeurs",
+      "title": "Principales valeurs qui",
+      "titleHighlight": "nous guident",
+      "description": "Ces principes forment la base de tout ce que nous faisons au ITOTO Learning Hub.",
+
+      "integrity": {
+        "title": "Intégrité",
+        "description": "Agir de manière éthique et responsable dans tous les engagements."
+      },
+      "transparency": {
+        "title": "Transparence",
+        "description": "Promouvoir la responsabilité et l'ouverture dans la gouvernance et la prestation de services."
+      },
+      "inclusivity": {
+        "title": "Inclusivité",
+        "description": "Assurer l'accès équitable aux opportunités d'apprentissage pour tous."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Maintenir des normes élevées dans l'enseignement, la prestation de services et les résultats."
+      },
+      "service": {
+        "title": "Service à la Communauté",
+        "description": "Réinvestir pour soutenir l'éducation des plus démunis."
+      }
+    }
+  },
+
+  "programs": {
+    "badge": "Programmes Présentés",
+    "title": "Commencez à apprendre ",
+    "titleHighlight": "Aujourd'hui",
+    "description": "Choisissez parmi notre gamme de programmes soigneusement conçus pour atteindre vos objectifs académiques et professionnels.",
+    "viewAll": "Voir Tous les Programmes",
+    "enrollNow": "Inscrivez-vous Maintenant",
+    "popular": "Populaire",
+    "new": "Nouveau",
+    "duration": "Durée",
+    "level": "Niveau",
+    "items": {
+      "english": {
+        "title": "Compétence en Anglais",
+        "subtitle": "Parlez avec Confiance",
+        "description": "Maîtrisez la langue anglaise avec notre programme complet couvrant les compétences de conversation, d'écoute, de lecture et d'écriture.",
+        "duration": "3-6 mois",
+        "schedule": "Flexible",
+        "groupSize": "8-12 étudiants",
+        "features": [
+          "Anglais Conversationnel",
+          "Communication Professionnelle",
+          "Préparation TOEFL/IELTS",
+          "Écriture & Grammaire"
+        ]
+      },
+      "french": {
+        "title": "Langue Française",
+        "subtitle": "Le français pour tous",
+        "description": "Du débutant à l'avancé, développez vos compétences en français pour la croissance académique, professionnelle ou personnelle.",
+        "duration": "3-6 mois",
+        "schedule": "Flexible",
+        "groupSize": "8-12 étudiants",
+        "features": [
+          "Fondations de Grammaire",
+          "Expression Orale",
+          "Composition Écrite",
+          "Contexte Culturel"
+        ]
+      },
+      "kirundi": {
+        "title": "Kirundi pour la Diaspora",
+        "subtitle": "Connectez-vous à Vos Racines",
+        "description": "Cours en ligne conçus pour les enfants de la diaspora burundaise afin d'apprendre et d'apprécier leur langue maternelle.",
+        "duration": "En Cours",
+        "schedule": "En Ligne",
+        "groupSize": "6-10 étudiants",
+        "features": [
+          "Vocabulaire de Base",
+          "Compétences de Conversation",
+          "Héritage Culturel",
+          "Connexion Familiale"
+        ]
+      },
+      "career": {
+        "title": "Orientation Professionnelle",
+        "subtitle": "Votre Chemin vers le Succès",
+        "description": "Soutien complet pour les étudiants naviguant dans leur parcours académique et professionnel.",
+        "duration": "Personnalisé",
+        "schedule": "Sur Rendez-vous",
+        "groupSize": "1-à-1",
+        "features": [
+          "Évaluation de Carrière",
+          "Candidatures Universitaires",
+          "Soutien Visa",
+          "Préparation aux Entretiens"
+        ]
+      }
+    },
+    "question": "Vous cherchez un programme de formation personnalisé pour votre organisation?",
+    "cta": "Contactez-nous pour des solutions d'entreprise"
+  },
+
+  "audience": {
+    "badge": "Qui Nous Servons",
+    "title": "Autonomiser diverses",
+    "titleHighlight": "communautés",
+    "description": "ITOTO Learning Hub sert à la fois les individus et les institutions, opérant au Burundi et au-delà pour assurer que l'apprentissage conduit à des résultats tangibles.",
+
+    "items": [
+      {
+        "title": "Étudiants",
+        "description": "À tous les niveaux cherchant l'excellence académique et la maîtrise des langues."
+      },
+      {
+        "title": "Enseignants et Éducateurs",
+        "description": "Cherchant à améliorer leurs méthodologies et compétences d'enseignement."
+      },
+      {
+        "title": "Professionnels",
+        "description": "Jeunes et professionnels en activité cherchant une avance de carrière."
+      },
+      {
+        "title": "Soignants et Parents",
+        "description": "Membres de la communauté investis dans le développement de la petite enfance."
+      },
+      {
+        "title": "Organisations",
+        "description": "Organisations à but non lucratif locales et internationales cherchant le renforcement des capacités."
+      },
+      {
+        "title": "Institutions",
+        "description": "Partenaires gouvernementaux et de développement pour la collaboration stratégique."
+      }
+    ],
+    "question": "Peu importe votre parcours, nous sommes là pour soutenir votre parcours d'apprentissage.",
+    "cta": "Connectez-vous avec nous aujourd'hui"
+  },
+
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "Ce que nos ",
+    "titleHighlight": "apprenants disent",
+    "description": "Écoutez les étudiants, les enseignants et les partenaires qui ont expérimenté l'impact transformateur du ITOTO Learning Hub.",
+    "items": [
+      {
+        "quote": "ITOTO Learning Hub a transformé ma façon d'apprendre. Les ressources et le soutien communautaire sont incroyables! Leur programme d'anglais m'a aidé à réussir mon IELTS avec une bande de 7,5.",
+        "author": "Jean-Pierre K.",
+        "role": "Étudiant Universitaire"
+      },
+      {
+        "quote": "L'orientation professionnelle que j'ai reçue était inestimable. Ils m'ont aidé à comprendre mes forces et à naviguer le processus de candidature universitaire en toute confiance.",
+        "author": "Marie C.",
+        "role": "Diplômée du Secondaire"
+      },
+      {
+        "id": 3,
+        "quote": "En tant qu'enseignant, les ateliers de renforcement des capacités m'ont ouvert les yeux sur de nouvelles méthodologies pédagogiques. Mes étudiants sont plus engagés que jamais.",
+        "author": "Emmanuel N.",
+        "role": "Enseignant de l'Enseignement Secondaire"
+      },
+      {
+        "quote": "Les services de traduction sont professionnels et précis. ILH est devenu notre partenaire de confiance pour tous nos besoins de communication multilingue.",
+        "author": "Claudine M.",
+        "role": "Directrice de Programme ONG"
+      },
+      {
+        "quote": "Le programme DPE a été merveilleux pour notre communauté. Les parents sont plus impliqués et les enfants s'épanouissent dans leur parcours d'apprentissage précoce.",
+        "author": "Pascaline U.",
+        "role": "Leader Communautaire"
+      }
+    ],
+    "satisfaction": "Taux de Satisfaction",
+    "student": "Étudiants Servis",
+    "partner": "Organisations Partenaires",
+    "average": "Note Moyenne"
+  },
+
+  "faq": {
+    "badge": "Questions Fréquemment Posées",
+    "title": "Questions",
+    "titleHighlight": "fréquemment posées",
+    "description": "Trouvez les réponses aux questions courantes sur nos programmes et services. Vous ne trouvez pas ce que vous cherchez? Contactez-nous directement.",
+    "question": "Vous avez encore des questions?",
+    "answer": "Notre équipe est là pour vous aider. Contactez-nous pour une assistance personnalisée.",
+    "cta": "Contacter le Support",
+    "items": [
+      {
+        "question": "Quelles langues proposez-vous?",
+        "answer": "Nous offrons une formation complète dans quatre langues: l'anglais, le français, le kirundi et le kiswahili. Chaque programme se concentre sur les quatre compétences fondamentales: parler, écouter, lire et écrire. Nous proposons également des cours spécialisés pour les enfants de la diaspora afin d'apprendre le kirundi."
+      },
+      {
+        "question": "Comment je peux me préparer au TOEFL ou IELTS avec ILH?",
+        "answer": "Notre programme de préparation aux tests comprend des tests pratiques, des séances de renforcement des compétences ciblées, des commentaires personnalisés et des stratégies éprouvées pour la réussite. Nous offrons des cours collectifs et un coaching individuel pour correspondre à votre style d'apprentissage et votre emploi du temps."
+      },
+      {
+        "question": "Aidez-vous avec les candidatures universitaires?",
+        "answer": "Oui! Notre service de Soutien Académique et Professionnel comprend une assistance complète pour les candidatures universitaires. Nous aidons à la sélection des programmes, à la documentation de candidature, aux déclarations personnelles et à la navigation du processus d'admission pour les universités du monde entier."
+      },
+      {
+        "question": "Quels cours de développement professionnel proposez-vous?",
+        "answer": "Nous offrons une formation en développement personnel, leadership, entrepreneuriat, littératie financière, gestion d'équipe, négociation, résolution de conflits et éthique de travail. Ces programmes sont conçus pour les individus et peuvent être personnalisés pour les organisations."
+      },
+      {
+        "question": "Comment votre programme DPE soutient-il les communautés?",
+        "answer": "Notre programme de Développement de la Petite Enfance fournit des outils d'apprentissage centrés sur l'enfant, l'éducation des soignants, les initiatives de protection de l'enfance et le soutien des centres DPE dirigés par la communauté. Nous nous concentrons sur la construction de bases solides pour l'apprentissage tout au long de la vie."
+      },
+      {
+        "question": "Proposez-vous des services de traduction et d'interprétation?",
+        "answer": "Oui, nous fournissons des services de traduction professionnelle pour les documents en anglais, français, kirundi et kiswahili. Nous proposons également l'interprétation simultanée et consécutive pour les réunions, conférences et événements."
+      },
+      {
+        "question": "Les organisations peuvent-elles s'associer avec ILH pour la formation?",
+        "answer": "Absolument! Nous travaillons avec des organisations à but non lucratif locales et internationales, des institutions gouvernementales et des partenaires de développement. Nous pouvons personnaliser nos programmes pour répondre aux besoins et aux objectifs spécifiques de votre organisation."
+      },
+      {
+        "question": "Qu'est-ce qui distingue ILH des autres centres d'apprentissage?",
+        "answer": "ILH est axé sur les valeurs et enraciné dans la communauté. Nous nous concentrons sur l'apprentissage holistique, pratique et transformateur. Notre approche comprend un coaching soutenu et un mentorat, et nous réinvestissons une partie de nos revenus pour soutenir l'éducation des plus démunis."
+      }
+    ]
+  },
+
+  "cta": {
+    "badge": "Rejoignez des Milliers d'Apprenants",
+    "title": "Êtes-vous prêt à commencer votre",
+    "titleHighlight": "transformation?",
+    "description": "Faites le premier pas vers l'autonomisation de votre esprit et la formation de votre avenir. Rejoignez ITOTO Learning Hub aujourd'hui et découvrez votre potentiel.",
+    "cta1": "Commencer Maintenant",
+    "cta2": "Explorez les Programmes",
+    "secondary": "Contactez-nous",
+    "quality": "Apprentissage de Qualité",
+    "expert": "Instructeurs Experts",
+    "flexible": "Horaire Flexible",
+    "community": "Soutien Communautaire"
+  },
+
+  "contact": {
+    "badge": "Nous Contacter",
+    "title": "Êtes-vous prêt à commencer votre",
+    "titleHighlight": "parcours d'apprentissage?",
+    "description": "Contactez-nous et discutons de la façon dont nous pouvons vous aider à atteindre vos objectifs académiques et professionnels.",
+
+    "question": "Parlons",
+    "answer": "Que vous recherchiez une formation linguistique, une orientation professionnelle ou un développement professionnel, nous sommes là pour vous aider.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "phone": "Numéro de Téléphone",
+      "service": "Service Intéressé",
+      "message": "Votre Message",
+      "submit": "Envoyer le Message",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "votre@email.com",
+      "servicePlaceholder": "Sélectionnez un service",
+      "messagePlaceholder": "Parlez-nous de vos objectifs d'apprentissage..."
+    },
+    "info": [
+      {
+        "title": "Nous Envoyer un Email",
+        "description": "Nous répondons dans les 24 heures"
+      },
+      {
+        "title": "Nous Appeler",
+        "description": "Lun-Ven, 8h-18h"
+      },
+      {
+        "title": "Nous Visiter",
+        "description": "Sur Rendez-vous"
+      },
+      {
+        "title": "Horaires de Travail",
+        "description": "Dimanche fermé"
+      }
+    ],
+    "services": [
+      "Formation Linguistique",
+      "Préparation aux Tests (TOEFL/IELTS)",
+      "Conseil en Carrière",
+      "Candidatures Universitaires",
+      "Services de Traduction",
+      "Interprétation",
+      "Développement Professionnel",
+      "Programmes DPE",
+      "Autre"
+    ],
+    "follow": "Nous Suivre",
+    "submitted": {
+      "title": "Merci!",
+      "description": "Nous avons reçu votre message et nous vous répondrons dans les 24 heures."
+    },
+    "sending": "Envoi en cours...",
+    "send": "Envoyer le Message"
+  },
+
+  "footer": {
+    "description": "Autonomiser les Esprits, Transformer les Avenirs. Un centre d'apprentissage axé sur les valeurs dédié à l'apprentissage holistique, pratique et transformateur.",
+    "servicesLinks": [
+      "Formation Linguistique",
+      "Préparation aux Tests",
+      "Orientation Professionnelle",
+      "Services de Traduction",
+      "Développement Professionnel",
+      "Programmes DPE"
+    ],
+    "resourcesLinks": ["Programmes", "FAQ", "Blog", "Événements"],
+    "companyLinks": [
+      "À Propos de Nous",
+      "Notre Équipe",
+      "Témoignages",
+      "Contact"
+    ],
+    "company": "Entreprise",
+    "resources": "Ressources",
+    "contact": "Contact",
+    "rights": "Tous les droits réservés. Développé par",
+    "privacy": "Politique de Confidentialité",
+    "top": "Retour au Début",
+    "terms": "Conditions d'Utilisation"
+  }
+}
