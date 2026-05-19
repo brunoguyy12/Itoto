@@ -33,7 +33,7 @@ export function LocaleSwitcher() {
         <Button
           variant="ghost"
           size="sm"
-          className="gap-2 text-foreground/80 hover:text-foreground"
+          className="gap-2 text-foreground/80 hover:text-white"
           disabled={isPending}
         >
           <Globe className="h-4 w-4" />

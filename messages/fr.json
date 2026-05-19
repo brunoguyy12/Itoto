@@ -14,14 +14,14 @@
     "titleHighlight": "ésprits",
     "title2": "transformer les",
     "titleHighlight2": "avenirs",
-    "description": "Une education de qualite, des ressources modernes et une communaute solidaire pour chaque apprenant. Maitrisez les langues, avancez dans votre carriere et liberez votre plein potentiel.",
+    "description": "Une éducation de qualité, des ressources modernes et une communauté solidaire pour chaque apprenant. Maîtrisez les langues, avancez dans votre carrière et liberez votre plein potentiel.",
     "cta1": "Commencer",
     "cta2": "Explorer les Programmes",
     "stats": {
       "students": "Etudiants",
       "languages": "Langues",
-      "successRate": "Taux de Reussite",
-      "experience": "Ans d'Experience"
+      "successRate": "Taux de Réussite",
+      "experience": "Ans d'Expérience"
     },
     "services": {
       "languages": "Langues",
@@ -83,9 +83,9 @@
       "title": "Développement professionnel",
       "description": "Reconnaître que le succès va au-delà de la réussite académique avec une formation holistique.",
       "features": {
-        "ft1": "Développement Personnel et Leadership",
-        "ft2": "Entrepreneuriat et Soutien aux Startups",
-        "ft3": "Littératie Financière et Professionnalisme",
+        "ft1": "Développement personnel et leadership",
+        "ft2": "Entrepreneuriat et soutien aux startups",
+        "ft3": "Littératie financière et professionnalisme",
         "ft4": "Gestion d'Équipe et Résolution de Conflits"
       }
     },
@@ -93,15 +93,15 @@
       "title": "DPE et soutien communautaire",
       "description": "Jeter les bases solides pour l'apprentissage continu et le bien-être communautaire.",
       "features": {
-        "ft1": "Programmes de Développement de la Pétite Enfance(DPE) Centrés sur l'Enfant",
-        "ft2": "Éducation des Soignants et des Parents",
-        "ft3": "Initiatives de Protection de l'Enfance",
-        "ft4": "Soutien des Centres DPE Dirigés par la Communauté"
+        "ft1": "Programmes de Développement de la Pétite Enfance (DPE) centrés sur l'enfant",
+        "ft2": "Éducation des parents et des personnes en charge des enfants",
+        "ft3": "Initiatives de protection de l'enfance",
+        "ft4": "Soutien des centres DPE dirigés par la communauté"
       }
     },
     "learnMore": "Savoir Plus",
     "question": "Vous n'êtes pas sûr du programme qui vous convient? Nous sommes là pour vous aider!",
-    "cta": "Obtenir des Conseils Personnalisés"
+    "cta": "Obtenir des conseils personnalisés"
   },
 
   "languages": {

@@ -16,8 +16,8 @@ import { useTranslations } from "next-intl";
 const stats = [
   { icon: GraduationCap, value: "1000+", labelKey: "students" },
   { icon: Globe, value: "4", labelKey: "languages" },
-  { icon: Users, value: "50+", labelKey: "successRate" },
-  { icon: Lightbulb, value: "15+", labelKey: "experience" },
+  // { icon: Users, value: "50+", labelKey: "successRate" },
+  { icon: Lightbulb, value: "6+", labelKey: "experience" },
 ];
 
 export function Hero() {

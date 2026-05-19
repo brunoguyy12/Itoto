@@ -65,7 +65,7 @@ export function Footer() {
                 <span>info@itotolearninghub.com</span>
               </a>
               <a
-                href="tel:+257XXXXXXXX"
+                href="tel:+25761191256"
                 className="flex items-center gap-3 text-gray-muted hover:text-orange transition-colors"
               >
                 <Phone className="w-5 h-5" />

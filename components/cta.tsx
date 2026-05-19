@@ -63,7 +63,7 @@ export function CTA() {
             <Button
               size="lg"
               variant="outline"
-              className="border-2 border-white text-secondary hover:text-secondary hover:bg-[#c0fcce] px-8 py-6 text-lg rounded-xl hover:shadow-md hover:shadow-white/10"
+              className="border-2 border-white text-secondary hover:text-secondary hover:bg-[#d8f6df] px-8 py-6 text-lg rounded-xl hover:shadow-md hover:shadow-white/10"
               asChild
             >
               <Link href="#services">{t("cta2")}</Link>

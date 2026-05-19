@@ -230,10 +230,10 @@ export function Testimonials() {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto"
         >
           {[
-            { value: "98%", label: "satisfaction" },
-            { value: "1000+", label: "student" },
-            { value: "50+", label: "partner" },
-            { value: "4.9/5", label: "average" },
+            { value: "90%", label: "satisfaction" },
+            { value: "500+", label: "student" },
+            { value: "30+", label: "partner" },
+            // { value: "4.9/5", label: "average" },
           ].map((stat, index) => (
             <div key={index} className="text-center">
               <div className="text-3xl md:text-4xl font-bold text-orange mb-1">

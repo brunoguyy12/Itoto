@@ -106,7 +106,7 @@ export function About() {
                 <div className="grid grid-cols-2 gap-px bg-border-light">
                   <div className="bg-white p-6 text-center">
                     <div className="text-3xl font-bold text-orange mb-1">
-                      2024
+                      2021
                     </div>
                     <div className="text-sm text-gray">{t("founded")}</div>
                   </div>
